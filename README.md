@@ -61,10 +61,6 @@ I build scalable full-stack applications with modern JavaScript ecosystems, focu
 
 ---
 
-## 🌍 Open Source Contributions
-
-Actively contributing to open-source projects through bug fixes, UI improvements, documentation updates, and developer experience enhancements.
-
 ### Areas of Contribution
 
 * Frontend UI fixes and component improvements
